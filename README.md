@@ -1,7 +1,6 @@
 # EXP 2 : INTERFACING-OF-STEPPER-MOTOR-WITH-ARM-PROCESSOR
-## AIM:
- 
 
+## AIM:
 To write an embedded c program to interface STEPPER MOTOR with ARM processor LPC1768.
  
 ## COMPONENTS REQUIRED: 
@@ -153,10 +152,7 @@ delay_ms(50);
 ```
 
 # OUTPUT:
-
-<img width="903" height="880" alt="image" src="https://github.com/user-attachments/assets/59ca15ed-b63f-4423-85bf-e5d91a7563d5" />
-
-<img width="1491" height="914" alt="WhatsApp Image 2026-09-19 at 10 28 51 AM" src="https://github.com/user-attachments/assets/b55a57f1-7e37-4ff6-875b-677224be2001" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/1f6619cd-66c2-4a1a-ba76-6b5c6876eaf4" />
 
 # RESULT:
 
